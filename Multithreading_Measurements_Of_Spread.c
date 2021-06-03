@@ -22,7 +22,7 @@ static void determineSizeOfInputArray(){
   }
 }
   
-//Collect the inputs for the integer array
+//Collect the inputs for the integer array 
 static void collectArrayInputs(int arr[]){
   printf("\nBegin entering your values.\n");
   for(i=0; i<size_of_array; i++){
