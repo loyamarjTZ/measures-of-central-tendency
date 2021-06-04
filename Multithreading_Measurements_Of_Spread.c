@@ -31,7 +31,7 @@ static void collectArrayInputs(int arr[]){
   }
 }
 
-//Display the content of the array
+//Display the content of the array 
 static void displayArrayContent(int arr[]){
   printf("\n");
   for(i=0; i<size_of_array; i++){
