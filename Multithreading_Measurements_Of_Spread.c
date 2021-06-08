@@ -3,7 +3,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-//Static variables
+//Static variables 
 static int size_of_array;
 static int i;
 
