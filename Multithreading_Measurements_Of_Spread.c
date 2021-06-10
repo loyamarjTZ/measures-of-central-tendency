@@ -53,7 +53,7 @@ static void insertionSort(int arr[], int n){
   }
 }
 
-//Display the minimum value
+//Display the minimum value 
 void *getMin(void *arg){
   int *values = (int*)arg;
   printf("\nMinimum: %d\n", values[0]);
